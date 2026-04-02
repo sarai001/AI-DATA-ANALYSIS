@@ -91,5 +91,5 @@ This project demonstrates a basic data analysis workflow, including dataset clea
 ## Dashboard Preview
 
 <p align="center">
-  <img src="image/dashboard" width="800">
+  <img src="Image/dashboard.png " width="800">
 </p>
