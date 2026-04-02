@@ -86,3 +86,10 @@ README.md
 Conclusion
 
 This project demonstrates a basic data analysis workflow, including dataset cleaning, statistical exploration, and visualization. The goal was to transform raw data into meaningful insights and present them through an interactive dashboard.
+
+
+## Dashboard Preview
+
+<p align="center">
+  <img src="image/dashboard.png" width="800">
+</p>
